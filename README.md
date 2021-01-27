@@ -1,2 +1,2 @@
-# homekit-garate-opener
+# homekit-garage-opener
 Homekit Garage Opener
